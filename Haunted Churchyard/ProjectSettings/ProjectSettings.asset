@@ -537,7 +537,7 @@ PlayerSettings:
   XboxOne::VR::enabledDevices: []
   iOS::VR::enabledDevices: []
   tvOS::VR::enabledDevices: []
-  cloudProjectId: 6cdfc868-6676-490e-8014-42e698d9c98a
-  projectName: Haunted Churchyard
+  cloudProjectId: 9a3aee13-3791-49cb-8259-7d25259f1aea
+  projectName: Haunted Churchyard (1)
   organizationId: pumali
   cloudEnabled: 0
